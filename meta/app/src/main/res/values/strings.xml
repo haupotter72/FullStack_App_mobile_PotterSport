@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">meta</string>
+
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="_200">gia</string>
+    <string name="_300">$300</string>
+
+</resources>
